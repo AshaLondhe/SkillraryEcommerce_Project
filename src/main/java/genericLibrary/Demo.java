@@ -7,6 +7,8 @@ public class Demo {
 
 		
 		System.out.println("This is demo file added to test Git commit");
+		
+		System.out.println("Hi....new change");
 	}
 
 }
